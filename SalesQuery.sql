@@ -1,4 +1,6 @@
-use sales;
+create database Sales;
+
+use Sales;
 GO
 create table Customers
 (
